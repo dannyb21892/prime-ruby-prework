@@ -4,6 +4,6 @@ def prime?(int)
     
   end
 end
-for i in [1..5] do
+for i in (1..5) do
   puts i
 end
