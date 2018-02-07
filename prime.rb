@@ -1,9 +1,6 @@
 # Add  code here!
 def prime?(int)
-  for i in [1..int] do
+  for i in (2..int) do
     
   end
-end
-for i in (1..5) do
-  puts i
 end
